@@ -3,7 +3,7 @@
     <property name="created">2017-01-30T22:53:58</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-02-23T21:15:31</property>
+    <property name="modified">2017-02-26T13:03:43</property>
     <property name="originalScheme">Monokai-Sublime</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -1514,6 +1514,8 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff4841" />
+        <option name="EFFECT_COLOR" value="ff6864" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
